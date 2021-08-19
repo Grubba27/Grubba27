@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grubba27&show_icons=true&theme=onedark&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=blade,html,css)](https://github.com/grubba27/github-readme-stats)
 
 
-
-
 Langs that I know: </br>  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
