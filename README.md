@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact)](https://github.com/grubba27/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grubba27)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
