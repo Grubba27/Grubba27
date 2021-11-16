@@ -25,9 +25,17 @@
   <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Sublime's custom image"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Sublime's custom image"/>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Sublime's custom image"/>
+  
   </div>
  
-
 <div>
-![Snake animation](https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg)  
+    <img align="right" alt="github-gif" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
+</div>
+
+##
+<div style="display: inline_block">
+ <a href="https://twitter.com/que_cara_legal" target="_blank"> <img src="https://img.shields.io/badge/twitter-%23007ACC.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Sublime's custom image"/></a> 
+   <img align="left" src="https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
+
 </div>
