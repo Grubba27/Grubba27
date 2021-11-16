@@ -27,3 +27,7 @@
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Sublime's custom image"/>
   </div>
  
+
+<div>
+![Snake animation](https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg)  
+</div>
