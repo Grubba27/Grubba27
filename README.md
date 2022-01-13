@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=html,css,blade,ruby,java, kotlin" alt="Sublime's custom image"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=html,css,blade,ruby,java, kotlin, php" alt="Sublime's custom image"/>
   </div>
 
 
