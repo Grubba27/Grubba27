@@ -2,9 +2,9 @@
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=html,css,blade,ruby,python, objective-c, makefile,dart, java" alt="Sublime's custom image"/>
+<img src="https://github-readme-stats.vercel.app/api?username=grubba27&show_icons=true&theme=onedark&count_private=true" alt="Sublime's custom image"/>
   </div>
-
-
+  
 
 
 <div align="center"> 
