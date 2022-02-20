@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=html,css,blade,ruby,python, kotlin, makefile, java, php" alt="Sublime's custom image"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=html,css,blade,ruby,python, objective-c, makefile,dart, java" alt="Sublime's custom image"/>
   </div>
 
 
@@ -28,6 +28,8 @@
   </div>
  
 <div>
+  
+  
     <img align="right" alt="github-gif" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 </div>
@@ -38,3 +40,8 @@
    <img align="left" src="https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
 
 </div>
+
+
+
+
+
