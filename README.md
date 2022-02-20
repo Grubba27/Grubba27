@@ -28,9 +28,7 @@
   </div>
  
 <div>
-  
-  
-    <img align="right" alt="github-gif" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+  <img align="right" alt="github-gif" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 </div>
 
