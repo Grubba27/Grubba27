@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## Nice to meet you
+
+
+  My name is Gabriel Grubba I do love making and talking about tech stuff.
+  
+  I have a an Associate Degree in Eletronics and I am currently doing Computer Cience Degree at PUC-PR
+  
+  Some experience with the web stack (JavaScript & TypeScript) and always in love with the new.
+  
+  I do have some contribuitons to Rust and JavaScript Ecosystem. Also have done some talks the ones one that are on Youtube are bellow:
+  - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s)
+  
+</div>
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grubba27&layout=compact&hide=html,css,blade,python, objective-c, ruby,kotlin, makefile,dart, java&langs_count=4" alt="Sublime's custom image"/>
 <img src="https://github-readme-stats.vercel.app/api?username=grubba27&show_icons=true&theme=onedark&count_private=true" alt="Sublime's custom image"/>
