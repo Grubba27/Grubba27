@@ -5,7 +5,7 @@
 
   My name is Gabriel Grubba I do love making and talking about tech stuff.
   
-  I have a an Associate Degree in Eletronics and I am currently doing Computer Cience Degree at PUC-PR
+  I have a an Associate Degree in Eletronics and I am currently doing Computer Cience Degree at PUC-PR (Brazil)
   
   Some experience with the web stack (JavaScript & TypeScript) and always in love with the new.
   
