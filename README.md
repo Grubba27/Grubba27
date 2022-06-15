@@ -11,6 +11,7 @@
   
   I do have some contribuitons to Rust and JavaScript Ecosystem. Also have done some talks the ones one that are on Youtube are bellow:
   - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s)
+  - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8)
   
 </div>
 <div align="center"> 
