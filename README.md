@@ -10,11 +10,11 @@
   Some experience with the web stack (JavaScript & TypeScript) and always in love with the new.
   
   I do have some contribuitons to Rust and JavaScript Ecosystem. Also have done some talks the ones one that are on Youtube are bellow:
-  - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
-  - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8)[Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
+  - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) => [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
+  - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) => [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
   
   Slides for other talks that are not on YouTube:
-  - [Resolvendo problemas de um ponto de vista filosófico](https://docs.google.com/presentation/d/1TsXtE0_-i0d9qcaJCJOPNb6psCEyT403zUWzJIeOmgA/edit?usp=sharing) [site](https://todasasletras.org/)
+  - [Resolvendo problemas de um ponto de vista filosófico](https://docs.google.com/presentation/d/1TsXtE0_-i0d9qcaJCJOPNb6psCEyT403zUWzJIeOmgA/edit?usp=sharing) =>  [site](https://todasasletras.org/)
   - [Fazendo seus tipos fazerem cálculos](https://docs.google.com/presentation/d/1AAAOXUGyVWRtnkgOZ7UgjNgtCDqDFpHURe5H_3TaOWw/edit?usp=sharing)
   
 </div>
