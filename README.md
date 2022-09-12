@@ -35,7 +35,7 @@
 
 ##
 <div style="display: inline_block">
- <a href="https://twitter.com/que_cara_legal" target="_blank"> <img src="https://img.shields.io/badge/twitter-%23007ACC.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Sublime's custom image"/></a> 
+ <a href="https://twitter.com/gab_grubba" target="_blank"> <img src="https://img.shields.io/badge/twitter-%23007ACC.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Sublime's custom image"/></a> 
    <img align="left" src="https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
 
 </div>
