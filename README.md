@@ -16,6 +16,7 @@
   - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) => [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
   - [Hoster on SibsDay](https://www.youtube.com/watch?v=cMf2UDSS1U0)
   - [Meteor with Vite. The alternative future of MeteorJS](https://impact.meteor.com/meetings/virtual/74z28tK8rorpKYnZv)
+  - [The best way to create and deploy web apps with full-stack type safety](https://impact.meteor.com/meetings/virtual/gWdkQNt79AM6ZRhr3)
   
   Slides for other talks that are not on YouTube:
   - [Resolvendo problemas de um ponto de vista filosófico](https://docs.google.com/presentation/d/1TsXtE0_-i0d9qcaJCJOPNb6psCEyT403zUWzJIeOmgA/edit?usp=sharing) =>  [ONG Todas as Letras](https://todasasletras.org/)
