@@ -7,7 +7,7 @@
   
   I have a an Associate Degree in Eletronics and I am currently doing Computer Cience Degree at PUC-PR (Brazil)
  
-  Also I do work as a full time OSS maintainer in Meteor.js.
+  Also I do work as a full time as core maintainer for Meteor.js.
   
   Some experience with the web stack (JavaScript & TypeScript) and always in love with the new.
   
