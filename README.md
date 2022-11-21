@@ -11,7 +11,7 @@
   
   Some experience with the web stack (JavaScript & TypeScript) and always in love with the new.
   
-  I do have some contribuitons to Rust and JavaScript Ecosystem. Also have done some talks the ones one that are on Youtube are bellow:
+  I have some contributions to Rust and JavaScript ecosystems. Also have done some talks the ones one that is on Youtube are below:
   - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) => [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
   - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) => [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
   - [Hoster on SibsDay](https://www.youtube.com/watch?v=cMf2UDSS1U0)
@@ -41,8 +41,3 @@
    <img align="left" src="https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
 
 </div>
-
-
-
-
-
