@@ -23,21 +23,8 @@
   - [Fazendo seus tipos fazerem cálculos](https://docs.google.com/presentation/d/1AAAOXUGyVWRtnkgOZ7UgjNgtCDqDFpHURe5H_3TaOWw/edit?usp=sharing)
   
 </div>
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=grubba27&show_icons=true&theme=onedark&count_private=true" alt="Sublime's custom image"/>
-  </div>
+
   
 
- 
 
-<div>
-  <img align="right" alt="github-gif" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-</div>
-
-##
-<div style="display: inline_block">
- <a href="https://twitter.com/gab_grubba" target="_blank"> <img src="https://img.shields.io/badge/twitter-%23007ACC.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Sublime's custom image"/></a> 
-   <img align="left" src="https://github.com/Grubba27/Grubba27/blob/output/github-contribution-grid-snake.svg" alt="Sublime's custom image"/>
-
-</div>
