@@ -22,7 +22,12 @@
   - [Resolvendo problemas de um ponto de vista filosófico](https://docs.google.com/presentation/d/1TsXtE0_-i0d9qcaJCJOPNb6psCEyT403zUWzJIeOmgA/edit?usp=sharing) =>  [ONG Todas as Letras](https://todasasletras.org/)
   - [Fazendo seus tipos fazerem cálculos](https://docs.google.com/presentation/d/1AAAOXUGyVWRtnkgOZ7UgjNgtCDqDFpHURe5H_3TaOWw/edit?usp=sharing)
   - [Github Brasil em Julho](https://www.youtube.com/live/IZk2ZxgQtFc?feature=share)
-</div>
+
+    <details><summary>TypeScript Type System series in portuguese</summary>
+      1 - [link](https://dev.to/grubba/uma-introducao-aos-tipos-avancados-do-typescript-17i7)
+      2 - [link](https://dev.to/grubba/tenha-brio-com-sistemas-de-tipos-h7d)
+      3 - [link](https://dev.to/grubba/fazendo-sua-calculadora-em-typelevel-do-typescript-4je8)
+    </details>
 
   
 
