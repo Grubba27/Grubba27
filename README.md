@@ -25,9 +25,13 @@
     
 <details>
       <summary>TypeScript Type System series in portuguese</summary>
-      1 - [link](https://dev.to/grubba/uma-introducao-aos-tipos-avancados-do-typescript-17i7)
-      2 - [link](https://dev.to/grubba/tenha-brio-com-sistemas-de-tipos-h7d)
-      3 - [link](https://dev.to/grubba/fazendo-sua-calculadora-em-typelevel-do-typescript-4je8)
+  
+  [1st part](https://dev.to/grubba/uma-introducao-aos-tipos-avancados-do-typescript-17i7)
+  
+  [2nd part](https://dev.to/grubba/tenha-brio-com-sistemas-de-tipos-h7d)
+  
+  [3rd part](https://dev.to/grubba/fazendo-sua-calculadora-em-typelevel-do-typescript-4je8)
+  
 </details>
 
   
