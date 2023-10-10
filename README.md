@@ -3,15 +3,15 @@
 ## Nice to meet you
 
 
-  My name is Gabriel Grubba I do love making and talking about tech stuff.
+  My name is Gabriel Grubba. I do love making and talking about tech stuff.
   
-  I have a an Associate Degree in Eletronics and I am currently doing Computer Cience Degree at PUC-PR (Brazil)
+  I have an Associate Degree in Electronics, and I am currently doing a Computer Science Degree at PUC-PR (Brazil)
  
-  Also I do work as a full time as core maintainer for Meteor.js.
+  Also, I do work as a full-time core maintainer for Meteor.js.
   
-  Some experience with the web stack (JavaScript & TypeScript) and always in love with the new.
+  I have experience with the web stack (JavaScript & TypeScript) and Golang.
   
-  I have some contributions to JavaScript ecosystem. Also have done some talks the ones one that are on Youtube are below:
+  I have some contributions to the JavaScript ecosystem. Also, I have done some talks that are on YouTube below:
   - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) => [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
   - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) => [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
   - [Hoster on SibsDay](https://www.youtube.com/watch?v=cMf2UDSS1U0)
