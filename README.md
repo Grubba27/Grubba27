@@ -23,7 +23,14 @@
   - [Resolvendo problemas de um ponto de vista filosófico](https://docs.google.com/presentation/d/1TsXtE0_-i0d9qcaJCJOPNb6psCEyT403zUWzJIeOmgA/edit?usp=sharing) =>  [ONG Todas as Letras](https://todasasletras.org/)
   - [Fazendo seus tipos fazerem cálculos](https://docs.google.com/presentation/d/1AAAOXUGyVWRtnkgOZ7UgjNgtCDqDFpHURe5H_3TaOWw/edit?usp=sharing)
   - [Github Brasil em Julho](https://www.youtube.com/live/IZk2ZxgQtFc?feature=share)
-    
+
+## Appearances in other videos:
+
+ - This week in MeteorJS 8th of September => [link](https://www.youtube.com/watch?v=EAN8Bz4y394&t=2s)
+ - This week in MeteorJS 20th of October => [link](https://www.youtube.com/watch?v=Otf_jslXFBU&t=1968s)
+
+---
+   
 <details>
       <summary>TypeScript Type System series in portuguese</summary>
   
