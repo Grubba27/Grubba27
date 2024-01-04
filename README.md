@@ -15,8 +15,6 @@
   - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) => [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
   - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) => [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
   - [Hoster on SibsDay](https://www.youtube.com/watch?v=cMf2UDSS1U0)
-  - [Meteor with Vite. The alternative future of MeteorJS](https://impact.meteor.com/meetings/virtual/74z28tK8rorpKYnZv)
-  - [The best way to create and deploy web apps with full-stack type safety](https://impact.meteor.com/meetings/virtual/gWdkQNt79AM6ZRhr3)
   - [Workshop: CHARM stack](https://www.youtube.com/watch?v=wVBRWPw5X9s)
   
   ### Slides for other talks that are not on YouTube:
@@ -28,7 +26,7 @@
 
  - This week in MeteorJS 8th of September => [link](https://www.youtube.com/watch?v=EAN8Bz4y394&t=2s)
  - This week in MeteorJS 20th of October => [link](https://www.youtube.com/watch?v=Otf_jslXFBU&t=1968s)
-
+- This week in MeteorJS  22th of December => [link](https://www.youtube.com/watch?v=dNogyc_mzoY)
 ---
    
 <details>
