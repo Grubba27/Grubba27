@@ -6,8 +6,7 @@
   My name is Gabriel Grubba. I do love making and talking about tech stuff.
   
   I have an Associate Degree in Electronics, and I am currently doing a Computer Science Degree at PUC-PR (Brazil)
- 
-  Also, I do work as a full-time core maintainer for Meteor.js.
+
   
   I have experience with the web stack (JavaScript & TypeScript) and Golang.
   
