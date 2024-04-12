@@ -7,6 +7,7 @@
   
   I have an Associate Degree in Electronics, and I am currently doing a Computer Science Degree at PUC-PR (Brazil)
 
+  Previously maintainer of @meteor
   
   I have experience with the web stack (JavaScript & TypeScript) and Golang.
   
