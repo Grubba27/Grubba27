@@ -5,11 +5,9 @@
 
   My name is Gabriel Grubba. I do love making and talking about tech stuff.
   
-  I have an Associate Degree in Electronics, and I am currently doing a Computer Science Degree at PUC-PR (Brazil)
-
   Previously maintainer of @meteor
-  
-  I have experience with the web stack (JavaScript & TypeScript) and Golang.
+
+  Focusing on building products for the web.
   
   I have some contributions to the JavaScript ecosystem. Also, I have done some talks that are on YouTube below:
   - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) => [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
