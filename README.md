@@ -4,8 +4,7 @@
 
 
   My name is Gabriel Grubba. I do love making and talking about tech stuff.
-  
-  Previously maintainer of @meteor
+
 
   Focusing on building products for the web.
   
