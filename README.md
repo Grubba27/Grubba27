@@ -19,6 +19,7 @@
   - [Resolvendo problemas de um ponto de vista filosófico](https://docs.google.com/presentation/d/1TsXtE0_-i0d9qcaJCJOPNb6psCEyT403zUWzJIeOmgA/edit?usp=sharing) =>  [ONG Todas as Letras](https://todasasletras.org/)
   - [Fazendo seus tipos fazerem cálculos](https://docs.google.com/presentation/d/1AAAOXUGyVWRtnkgOZ7UgjNgtCDqDFpHURe5H_3TaOWw/edit?usp=sharing)
   - [Github Brasil em Julho](https://www.youtube.com/live/IZk2ZxgQtFc?feature=share)
+  - [NodeBR @ Belo Horizonte – Escalando com ember](https://github.com/Grubba27/Ember-at-NodeBR)
 
 ## Appearances in other videos:
 
