@@ -9,8 +9,8 @@
   Focusing on building products for the web.
   
   I have some contributions to the JavaScript ecosystem. Also, I have done some talks that are on YouTube below:
-  - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) => [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
-  - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) => [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
+  - [Angular SP #43 - Introduction on RxJS](https://www.youtube.com/watch?v=_bDzLTc-u58&t=4105s) -> [Slides](https://docs.google.com/presentation/d/1TZfNkWlfljVW5XxZOp9M5PvFVPazkUKydUDSezEJq2Q/edit?usp=sharing)
+  - [Angular SP #49 - Introduction on Angular Routes & a little bit on RxJS](https://www.youtube.com/watch?v=IoAMKiii1H8) -> [Slides](https://docs.google.com/presentation/d/1XGnEvDKwCBJmZF9pD8p24Sr1BzgpCSmGXkAsjz_CvQs/edit?usp=sharing)
   - [Hoster on SibsDay](https://www.youtube.com/watch?v=cMf2UDSS1U0)
   - [Workshop: CHARM stack](https://www.youtube.com/watch?v=wVBRWPw5X9s)
   - [Making your own tRPC Library](https://www.youtube.com/watch?v=n2-pupXT6M0) -> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRU-ORnV_T3YVJSnrPu6rfsiFgDSRhz6PKmxQR0bHYV6XwBqkv7L3mynquR62KFzS_O8FT1ucwXRbFc/pub?start=false&loop=false&delayms=3000)
