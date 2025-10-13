@@ -15,7 +15,7 @@
   - [Workshop: CHARM stack](https://www.youtube.com/watch?v=wVBRWPw5X9s)
   - [Making your own tRPC Library](https://www.youtube.com/watch?v=n2-pupXT6M0) -> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRU-ORnV_T3YVJSnrPu6rfsiFgDSRhz6PKmxQR0bHYV6XwBqkv7L3mynquR62KFzS_O8FT1ucwXRbFc/pub?start=false&loop=false&delayms=3000)
   
-  ### Slides for other talks that are not on YouTube (in portuguese):
+  ### Slides for other talks that are not on YouTube (in pt-br):
   - [Fazendo seus tipos fazerem cálculos](https://docs.google.com/presentation/d/1AAAOXUGyVWRtnkgOZ7UgjNgtCDqDFpHURe5H_3TaOWw/edit?usp=sharing)
   - [Github Brasil em Julho](https://www.youtube.com/live/IZk2ZxgQtFc?feature=share)
   - [NodeBR @ Belo Horizonte – Escalando com ember](https://github.com/Grubba27/Ember-at-NodeBR)
